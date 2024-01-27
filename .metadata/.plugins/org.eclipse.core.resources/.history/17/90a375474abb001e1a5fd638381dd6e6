@@ -1,0 +1,5 @@
+package com.controller.beans;
+
+public class User {
+
+}

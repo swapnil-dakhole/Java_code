@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1056066654.index
+\Forward and redirect under jsp\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3446344447.index
+\Basic application based on mvc\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3517232118.index
+\Basic application based on mvc\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2774890913.index
+\Forward and redirect under jsp\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\37541506.index
+\session under jsp overview\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\67760961.index
+\form under jsp\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4221672433.index
+\Beans with web form\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1332550568.index
+\user logout using cookies\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4176099091.index
+\JSP Expression\src\main\java
+E:\Cybage_Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4214238129.index
+\form under servlet\src\main\java

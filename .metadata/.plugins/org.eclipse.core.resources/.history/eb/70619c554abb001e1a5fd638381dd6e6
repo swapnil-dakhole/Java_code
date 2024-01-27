@@ -1,0 +1,11 @@
+package com.controller.beans;
+
+public class User {
+	private String firstName;
+	private String lastName;
+	public User() {
+		firstName = "Yash";
+		lastName = "Khasti";
+	}
+	
+}
